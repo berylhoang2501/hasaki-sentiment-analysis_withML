@@ -2,7 +2,7 @@
 
 Classifies customer reviews into positive, negative, or neutral with 98.33% test accuracy using Random Forest. Developed on Google Colab for Hasaki.vn to provide actionable insights for product improvements.
 
-![logo](https://github.com/user-attachments/assets/7d2a47c1-1df7-4d29-9098-f20a350b62df)
+![SENTIMENT ANALYSIS](https://github.com/user-attachments/assets/475270d2-fd99-4241-8a8a-143d1e7d8af8)
 
 ## Tools
 - Python, Scikit-learn, NLTK, Pandas, Matplotlib, Seaborn, Google Colab
